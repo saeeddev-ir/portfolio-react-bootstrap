@@ -6,8 +6,11 @@ Hope you love it.
 
 
 ✔️ language: English
+
 ✔️ responsive
+
 ✔️ ReactJs
+
 ✔️ Bootstrap
 
 
